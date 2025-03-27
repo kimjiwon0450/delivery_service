@@ -233,7 +233,7 @@ Java 개발:
 * **구성 요소:**
     * `OrderService.java`: 주문 관련 비즈니스 로직 처리
     * `OrderRepository.java`: 주문 데이터 접근
-    * `PaymentService.java`: 결제 처리
+
 
 #### 1.4. 배달 서비스 (Delivery Service)
 
